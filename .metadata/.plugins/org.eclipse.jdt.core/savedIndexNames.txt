@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\OneDrive\OneDrive - Turun ammattikorkeakoulu\OPRHarjoitustyö\.metadata\.plugins\org.eclipse.jdt.core
+2544206904.index
+741342598.index
